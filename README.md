@@ -5,6 +5,18 @@
 - 界面采用 **Liquid Glass（液态玻璃）+ 悬浮式底部导航** 的现代移动端设计语言；
 - 全部数据保存在应用私有目录，**不联网、不申请任何权限、不上传任何数据**。
 
+## 克隆仓库
+
+```bash
+# HTTPS
+git clone https://github.com/ryertaylor-dot/Family-tree.git
+
+# SSH
+git clone git@github.com:ryertaylor-dot/Family-tree.git
+```
+
+克隆后即可用 Android Studio 打开，或用命令行构建（见下文「构建运行」）。仓库为公开仓库，可直接拉取。
+
 ## 功能特性
 
 | 模块 | 说明 |
